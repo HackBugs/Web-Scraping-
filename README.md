@@ -1,4 +1,4 @@
-# Web-Scraping-
+# Web-Scraping-Tools and Techniques
 
 > ## Here’s a table summarizing the extensions from your screenshot related to web scraping and email finding:
 
@@ -115,4 +115,20 @@ List wise people on linkedin
 |**Maps Scraper & Leads Extractor - MapsLeads** | [Link](https://chromewebstore.google.com/detail/maps-scraper-leads-extrac/ghokiciomljbacchbkfhmnlmflbponlf?hl=en) |
 | **d7leadfinder** | [Link](https://d7leadfinder.com/) | 
 
+
+------------
+
+## **General Search On google**
+
+```
+site.instagram.com “doctor” “NEW YORK” “@gmail.com”
+```
+
+> ### Use this prompt for chatgpt👇
+
+Format the above data into a table, and create a column for
+Count, First Name, Last Name, Company name, Company website, Instagram Link, Email.
+Here are some Rules:
+Don’t add entries that don’t have First name or Email.
+Don’t repeat entries, use the first occurrence
 
