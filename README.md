@@ -20,7 +20,7 @@
 | **Wiza**                                    | Extract phone numbers and emails from LinkedIn.        |
 | **XPath Helper**                            | Helps identify XPath for web scraping purposes.        |
 
-Let me know if you'd like detailed explanations or guides for any of these extensions!
+![alt text](https://github.com/HackBugs/Web-Scraping-/blob/main/Chrome%20Web%20Scraping%20Extansions.png?raw=true)
 
 -------
 
