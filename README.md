@@ -107,4 +107,11 @@ Let me know if you'd like further details on any category!
 > ## Chrome Extension - LeadRocks for LinkedIn: Profiles Scanner
 
 List wise people on linkedin
-https://www.linkedin.com/search/results/people/?sid=%40Y2
+
+| **Extension Name**                          | **Purpose**                                             |
+|---------------------------------------------|---------------------------------------------------------|
+| **LeadRocks for LinkedIn: Profiles Scanner**| Phone number and email finder for lead generation.  |
+| **Search People on linkedin By liset wise** | [Link](https://www.linkedin.com/search/results/people/?sid=%40Y2) |
+
+
+
