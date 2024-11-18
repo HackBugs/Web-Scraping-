@@ -102,3 +102,9 @@ Let me know if you'd like detailed explanations or guides for any of these exten
 - Consider the "Search with Phone Numbers" option for advanced LinkedIn scraping.
 
 Let me know if you'd like further details on any category!
+
+-------
+> ## Chrome Extension - LeadRocks for LinkedIn: Profiles Scanner
+
+List wise people on linkedin
+https://www.linkedin.com/search/results/people/?sid=%40Y2
