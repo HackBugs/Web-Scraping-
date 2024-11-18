@@ -112,6 +112,7 @@ List wise people on linkedin
 |---------------------------------------------|---------------------------------------------------------|
 | **LeadRocks for LinkedIn: Profiles Scanner**| Phone number and email finder for lead generation.  |
 | **Search People on linkedin By liset wise** | [Link](https://www.linkedin.com/search/results/people/?sid=%40Y2) |
+|**Maps Scraper & Leads Extractor - MapsLeads** | [Link](https://chromewebstore.google.com/detail/maps-scraper-leads-extrac/ghokiciomljbacchbkfhmnlmflbponlf?hl=en)
 
 
 
