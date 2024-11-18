@@ -114,7 +114,7 @@ List wise people on linkedin
 | **Search People on linkedin By liset wise** | [Link](https://www.linkedin.com/search/results/people/?sid=%40Y2) |
 |**Maps Scraper & Leads Extractor - MapsLeads** | [Link](https://chromewebstore.google.com/detail/maps-scraper-leads-extrac/ghokiciomljbacchbkfhmnlmflbponlf?hl=en) |
 | **d7leadfinder** | [Link](https://d7leadfinder.com/) | 
-| **Meta Ads Library ** | [Link](https://www.facebook.com/ads/library/?active_status=active&ad_type=political_and_issue_ads&country=IN&media_type=all&source=fb-logo) |
+| **Meta Ads Library** | [Link](https://www.facebook.com/ads/library/?active_status=active&ad_type=political_and_issue_ads&country=IN&media_type=all&source=fb-logo) |
 
 
 ------------
