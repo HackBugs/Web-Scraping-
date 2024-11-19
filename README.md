@@ -172,3 +172,17 @@ Tools Required:
 ```
 pip install selenium beautifulsoup4 pandas
 ```
+
+----------------
+
+> ## Data Analyst ka Real-Life
+
+### **Tools ka Role ek Workflow Data Analyst **
+
+| **Step**               | **Tool**                      | **Purpose**                          |
+|------------------------|-------------------------------|--------------------------------------|
+| **Data Collection**    | SQL, Google Analytics         | Data fetch karna.                   |
+| **Data Cleaning**      | Excel, Python (Pandas)        | Raw data ko clean aur refine karna. |
+| **Data Analysis**      | Python (NumPy, Pandas), Excel | Data ke trends aur patterns samajhna. |
+| **Visualization**      | Tableau, Power BI             | Insights ko visualize karna.        |
+| **Reporting**          | Google Slides, Tableau        | Decision-makers ke liye presentation. |
