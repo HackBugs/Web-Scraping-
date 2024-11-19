@@ -136,4 +136,39 @@ Don’t repeat entries, use the first occurrence
 
 > ## Website links 
 - [yellowpages](https://www.yellowpages.com/)
+- [realtor](https://www.realtor.com/)
+- **Tool** [eu2.make](https://eu2.make.com/)
 
+--------------
+> ## Tools
+2. Customer Sentiment Analysis (Social Media Example)
+	Scenario: Tum ek brand owner ho aur customers ke reviews aur comments samajhna chahte ho.
+
+### Steps:
+	- Tum social media platforms (Twitter, Instagram, etc.) se public comments aur reviews scrape karte ho.
+	- Python libraries jaise `NLTK` ya `TextBlob` ka use kar ke positive, neutral, aur negative sentiments analyze karte ho.
+	- Tumhe pata chalta hai ki customers tumhare product ke baare me kya soch rahe hain.
+
+### Tools aur Technologies for Analysis:
+
+### Data Cleaning aur Processing:
+	- Pandas aur NumPy libraries use hote hain.
+### Visualization:
+	- Data ko graphs aur charts me represent karne ke liye Matplotlib aur Seaborn.
+### Prediction Models:
+	- Machine Learning ke algorithms jaise Linear Regression, Decision Trees.
+	
+	
+### Social Blade
+  - TubeBuddy/ VidIQ Extensions:
+
+Tools Required:
+
+	Python
+		Selenium (dynamic pages ke liye)
+		BeautifulSoup (HTML parsing ke liye)
+		pandas (data ko CSV me store karne ke liye)
+		
+```
+pip install selenium beautifulsoup4 pandas
+```
