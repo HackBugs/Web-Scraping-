@@ -186,3 +186,21 @@ pip install selenium beautifulsoup4 pandas
 | **Data Analysis**      | Python (NumPy, Pandas), Excel | Data ke trends aur patterns samajhna. |
 | **Visualization**      | Tableau, Power BI             | Insights ko visualize karna.        |
 | **Reporting**          | Google Slides, Tableau        | Decision-makers ke liye presentation. |
+
+> ## Excel for Data Cleaning and Analysis
+
+### **Excel vs Python: Key Comparisons**
+
+| **Feature**         | **Excel**                                   | **Python**                                 |
+|---------------------|---------------------------------------------|-------------------------------------------|
+| **Ease of Use**      | Beginner-friendly                          | Requires coding skills                   |
+| **Scalability**      | Limited to ~1M rows                        | Handles millions of rows easily          |
+| **Data Cleaning**    | Manual and semi-automated                  | Fully automated (with libraries)         |
+| **Data Analysis**    | Basic to Intermediate                      | Intermediate to Advanced                 |
+| **Visualization**    | Basic charts                               | Advanced and customizable (Matplotlib)   |
+| **Automation**       | Limited macros                             | Highly automatable                       |
+| **Cost**             | Pre-installed with MS Office               | Open-source and free                     |
+| **Company Use Case** | SMBs, quick insights                       | Large datasets, machine learning         |
+
+---
+
